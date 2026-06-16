@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nubah!
-- 💻 I'm currently a Computer Science student at Dalhousie University
-- 😄 Pronouns: she/her
-- 📫 Let's connect and collaborate on projects!
+- Hi, I’m Nubah!
+- I'm currently a Computer Science student at Dalhousie University
+- Pronouns: she/her
+- Let's connect and collaborate on projects!
