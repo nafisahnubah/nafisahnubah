@@ -1,6 +1,6 @@
 <img src="./laptop.svg" align="right" width="230" alt="ASCII laptop typing hello, world">
 
-### Hi, I'm Nubah
+### Hi, I'm Nubah!
 
 I'm a fourth year Computer Science Honours student at Dalhousie University (she/her), working across software development and machine learning research.
 
