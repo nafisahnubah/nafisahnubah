@@ -1,4 +1,2 @@
-- Hi, I’m Nubah!
-- I'm currently a Computer Science student at Dalhousie University
-- Pronouns: she/her
-- Let's connect and collaborate on projects!
+<img src="./terminal.svg" alt="Terminal: Nafisah Nubah (she/her), 4th year CS Honours at Dalhousie. Software developer and ML researcher in Halifax, NS. Building backend services in C#/.NET on Azure at Quest Software, thesis on detecting rare attack types in network intrusion detection, studying glacier melt patterns with satellite data, executive at Dal Women in Tech Society and Dal Machine Learning Society. Open to 2027 new grad software and ML roles." width="100%">
+[Portfolio](https://nafisah-nubah-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/nafisah-nubah-3a355829b) · [Email](mailto:Nafisah.Nubah@dal.ca)
